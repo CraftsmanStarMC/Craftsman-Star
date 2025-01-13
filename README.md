@@ -1,10 +1,21 @@
 # craftsman star
 
-By porting textures from many higher version mods into one texture pack, players of version 1.12.2 no longer need to download other higher version texture packs, Because downloading too many texture packs makes it messy when adding texture packs.
+<h4>By porting textures from many higher version mods into one texture pack, </h4>
+<h4>players of version 1.12.2 no longer need to download other higher version texture packs, Because downloading too many texture packs makes it messy when adding texture packs.</h4>
 
 ## Differences from other mods texture porting packages
 
-Modified to be more compatible with higher version textures, integrating more textures.
+<h4>Modified to be more compatible with higher version textures, integrating more textures.</h4>
+<h4>Craftsman Star will merge with other functional, practical, and aesthetically pleasing resource packs.</h4>
+<h4>Embracing the Minecraft 1.12.2 community and maintaining it extremely well
+That's why the craftsman star program was created in the first place.</h4>
+
+## contribute
+
+<h4>Please clone the main Craftsman Star repository at Source code</h4>
+<h4>Please raise PR and questions on Github!</h4>
+
+## Porting Higher Version Texture Plans
 
 <details>
 <summary>Complete the list of ported higher version Mods textures</summary>
@@ -17,29 +28,41 @@ Modified to be more compatible with higher version textures, integrating more te
 <h5>Thermal Foundation version 1.19.2 [Transplantation Texture completed]</h5>
 <h5>Thermal Integration version 1.18.2 [Transplantation Texture completed]</h5>
 
+<h3>Tough As Nails</h3>
+Texture ported version 1.20.4 [Transplantation Texture completed]
+
+<h3>Immersive Engineering</h3>
+Texture ported version 1.20.4 [Transplantation Texture completed]
+
+</details>
+
+<details>
+<summary> Finish merging texture packs list </summary>
+
+<h3>Immersive Engineering</h3>
+Updated project texture pack from tdstress on curseforge
+
 </details>
 
 <details>
 <summary>Texture porting to 1.12.2 plan</summary>
 
+<h3>Ender IO</h3>
+Texture ported version 1.20.1 [Active transplantation]
+
+<h3>The Twilight Forest</h3>
+<h5>Twilight Forest: JAPPA Pack [official addon](Active transplantation)</h5>
+
 <h3>Thermal Series</h3>
 <h5>Thermal Expansion version 1.18.2 [Transplantation in progress]</h5>
 <h5>Thermal Dynamics version 1.18.2 [Transplantation in progress]</h5>
+<h5>After porting the Thermal Expansion version and the Thermal Dynamics version, I gave up on porting them, because Thermal is officially only allowed for private use, not for distribution.</h5>
 
-<h4>Immersive Engineering</h4>
-Texture ported version 1.20.4 [Texture untransplanted]
-
-<h4>Industrial Craft 2</h4>
+<h3>Industrial Craft 2</h3>
 Texture ported version 1.19.2 [Texture untransplanted]
 
-<h4>Applied Energistics 2</h4>
+<h3>Applied Energistics 2</h3>
 Texture ported version 1.19.2 [Texture untransplanted]
-
-<h4>Ender IO</h4>
-Texture ported version 1.20.1 [Texture untransplanted]
-
-<h4>Tough As Nails</h4>
-Texture ported version 1.20.4 [Texture untransplanted]
 
 <h4>That's all for now</h4>
 
